@@ -1,5 +1,6 @@
 {
-  "homepage": "https://sksinthu.github.com/React_Todo.git",
+  
+"homepage": "https://sksinthu.github.io/NASA-APP-USE-API",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -38,7 +39,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1",
+    "gh-pages": "^6.2.0",
     "react-scripts": "^5.0.1"
   }
 }

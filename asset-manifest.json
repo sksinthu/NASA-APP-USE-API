@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/NASA-APP-USE-API/static/css/main.ed7d6c8e.css",
+    "main.js": "/NASA-APP-USE-API/static/js/main.46026b06.js",
+    "static/media/mars.png": "/NASA-APP-USE-API/static/media/mars.47d89af325224234247e.png",
+    "index.html": "/NASA-APP-USE-API/index.html",
+    "main.ed7d6c8e.css.map": "/NASA-APP-USE-API/static/css/main.ed7d6c8e.css.map",
+    "main.46026b06.js.map": "/NASA-APP-USE-API/static/js/main.46026b06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed7d6c8e.css",
+    "static/js/main.46026b06.js"
+  ]
+}
